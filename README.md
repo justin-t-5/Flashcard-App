@@ -1,11 +1,11 @@
 # Flashcard-App
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - FlashCard Quiz
 
-Submitted by: **Your Name Here**
+Submitted by: Justin Tamay
 
-This web app: **insert description**
+This web app: This app will quiz users using flashcards on web development topics. Helping students and tech enthusiasts to strengthen their web dev skills.
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
