@@ -5,7 +5,7 @@ Submitted by: Justin Tamay
 
 This web app: This app will quiz users using flashcards on web development topics. Helping students and tech enthusiasts to strengthen their web dev skills.
 
-Time spent: 12 hours spent in total
+Time spent: 11 hours spent in total
 
 ## Required Features
 
@@ -53,11 +53,11 @@ with ScreenToGIF
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I could not figure out how to get the flashcard effect to work but I looked through the class notes and resources and was able to find a guide on how to get started.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Justin Tamay]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
